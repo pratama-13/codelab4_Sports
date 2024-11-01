@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Sports</string>
+    <string name="list_fragment_label">Sports</string>
+    <string name="detail_fragment_label">Sport Info</string>
+
+    <string name="baseball">Baseball</string>
+    <string name="badminton">Badminton</string>
+    <string name="basketball">Basketball</string>
+    <string name="bowling">Bowling</string>
+    <string name="cycling">Bersepeda</string>
+    <string name="golf">Golf</string>
+    <string name="running">Running</string>
+    <string name="soccer">Sepak Bola</string>
+    <string name="swimming">Swimming</string>
+    <string name="table_tennis">Tennis Meja</string>
+    <string name="tennis">Tennis</string>
+
+    <string name="sports_list_baseball">Baseball adalah olahraga tim yang dimainkan antara dua tim, masing-masing terdiri dari sembilan pemain.</string>
+    <string name="sport_detail_text1">
+       Baseball adalah olahraga tim yang dimainkan antara dua tim, masing-masing terdiri dari sembilan pemain.
+        Tujuan utama baseball adalah mencetak poin, atau run, dengan cara memukul boladan berlari melewati semua base
+        hingga kembali ke home plate.Permainan dimulai dengan seorang pemain yang disebut pitcher melempar bola dari
+        pitcherss mound ke arah home plate,di mana seorang pemukul dari tim lawan, yang dikenal sebagai batter,
+        berusaha memukul bola tersebut menggunakan tongkat pemukul atau bat. Jika pemukul berhasil memukul bola ke area yang aman,
+        ia berusaha mencapai base pertamadan terus melangkah ke base berikutnya sesuai kondisi permainan. Tim bertahan berusaha menangkap bola
+        dan mengeluarkan pemukul dari permainan dengan cara tertentu, seperti menangkap bola sebelum menyentuh tanah
+        atau melempar bola ke base lebih dulu dari kedatangan pelari.
+    </string>
+
+    <string name="sports_list_badminton">Badminton adalah olahraga raket yang dimainkan oleh dua orang (tunggal) atau dua pasangan (ganda) di lapangan berbentuk persegi panjang yang dibagi oleh jaring di tengah.</string>
+    <string name="sport_detail_text2">
+        Badminton adalah olahraga raket yang dimainkan oleh dua orang (tunggal) atau dua pasangan (ganda) di lapangan
+        berbentuk persegi panjang yang dibagi oleh jaring di tengah.
+        Tujuan permainan ini adalah untuk memukul kok (shuttlecock) melewati jaring dan mendaratkannya di area lawan,
+        sementara pemain lawan berusaha mengembalikan kok sebelum menyentuh lantai.
+        \n\n
+        Permainan dimulai dengan salah satu pemain melakukan servis,
+        mengarahkan kok ke area lawan. Poin dicetak setiap kali kok berhasil mendarat di area lapangan lawan atau lawan membuat kesalahan,
+        seperti gagal mengembalikan kok atau memukulnya keluar batas lapangan. Badminton menggunakan sistem skor rally point,
+        yang berarti setiap reli atau perolehan poin mengubah kedudukan angka, baik bagi tim yang servis maupun yang menerima servis.
+        Pemain atau pasangan pertama yang mencapai 21 poin dengan selisih minimal dua poin memenangkan gim tersebut,
+        dan pertandingan umumnya berlangsung hingga salah satu pihak memenangkan dua dari tiga gim.
+        \n\n
+        Badminton adalah olahraga yang sangat cepat, menuntut refleks yang baik, kecepatan, kekuatan,
+        serta ketangkasan dalam bergerak dan membaca gerakan lawan. Olahraga ini populer secara global,
+        terutama di Asia dan Eropa, serta menjadi salah satu cabang olahraga yang dipertandingkan dalam Olimpiade.
+    </string>
+
+    <string name="sports_list_basketball">Basketball atau bola basket adalah olahraga tim yang dimainkan oleh dua tim, masing-masing terdiri dari lima pemain.</string>
+    <string name="sport_detail_text3">
+       Basketball atau bola basket adalah olahraga tim yang dimainkan oleh dua tim,
+        masing-masing terdiri dari lima pemain. Tujuan utama dalam permainan ini adalah mencetak poin dengan memasukkan bola
+        ke dalam keranjang atau ring lawan, yang terpasang pada tiang dengan ketinggian 3,05 meter.
+        Permainan ini berlangsung di lapangan berbentuk persegi panjang, biasanya di dalam ruangan,
+        dan memiliki batas waktu tertentu, dengan dua babak atau kuarter. Di tingkat profesional, seperti NBA,
+        pertandingan terdiri dari empat kuarter, masing-masing berdurasi 12 menit.
+        \n\n
+        Setiap kali bola berhasil dimasukkan ke ring lawan dari dalam area three-point line,
+        tim memperoleh dua poin. Jika lemparan dilakukan dari luar garis ini, maka dihitung sebagai tiga poin.
+        Lemparan bebas atau free throw yang diberikan akibat pelanggaran bernilai satu poin.
+        Pemain dapat menggiring bola dengan cara dribble (memantul-mantulkan bola ke lantai) dan mengoper bola ke rekan setim
+        untuk mendekati ring lawan.
+        \n\n
+        Bola basket menuntut keterampilan yang baik dalam mengoper, menembak, menggiring, dan bertahan.
+        Tim harus memiliki strategi untuk menyerang dan bertahan, serta menjaga kecepatan dan ketepatan gerakan.
+        Permainan ini populer di seluruh dunia dan dipertandingkan di berbagai level, dari amatir hingga profesional,
+        termasuk di Olimpiade. NBA di Amerika Serikat adalah liga profesional bola basket paling terkenal,
+        menarik pemain-pemain terbaik dari seluruh dunia.
+    </string>
+
+    <string name="sports_list_bowling">Bowling adalah olahraga atau permainan rekreasi yang dimainkan dengan cara menggulirkan bola.</string>
+    <string name="sport_detail_text4">
+       Bowling adalah olahraga atau permainan rekreasi yang dimainkan dengan cara menggulirkan bola berat di jalur panjang
+        yang disebut lane untuk menjatuhkan sepuluh pin yang disusun dalam formasi segitiga di ujung jalur tersebut.
+        Permainan ini bisa dimainkan oleh individu atau tim, dan tujuan utama adalah menjatuhkan sebanyak mungkin
+        pin dalam setiap giliran atau frame, dengan nilai tertinggi yang bisa dicapai adalah 300 poin dalam satu game.
+        \n\n
+        Setiap game bowling terdiri dari 10 frame, dan pada setiap frame, pemain memiliki dua kesempatan untuk menjatuhkan seluruh pin.
+        Jika semua pin jatuh dalam satu lemparan pertama, ini disebut strike dan pemain mendapat poin ekstra.
+        Jika semua pin jatuh pada lemparan kedua, ini disebut spare, yang juga memberikan poin tambahan.
+        Poin dalam bowling dihitung berdasarkan jumlah pin yang jatuh ditambah bonus dari setiap strike atau spare,
+        yang memengaruhi nilai pada lemparan-lemparan berikutnya.
+        \n\n
+        Bowling menggabungkan keterampilan dalam mengarahkan bola, mengontrol kecepatan dan kekuatan,
+        serta memahami teknik tertentu untuk mendapatkan sudut dan efek spin yang ideal.
+        Olahraga ini dimainkan secara global, baik dalam liga amatir maupun profesional,
+        serta tersedia di berbagai tempat rekreasi dan kompetisi.
+    </string>
+
+    <string name="sports_list_cycling">Cycling, atau bersepeda, adalah olahraga atau aktivitas yang dilakukan menggunakan sepeda untuk menempuh jarak tertentu,</string>
+    <string name="sport_detail_text5">
+      Cycling, atau bersepeda, adalah olahraga atau aktivitas rekreasi yang dilakukan dengan menggunakan sepeda
+        untuk menempuh jarak tertentu, baik di jalan raya, medan gunung, atau lintasan balap khusus.
+        Bersepeda dapat dilakukan sebagai olahraga individu atau dalam tim, dan memiliki berbagai kategori,
+        seperti balap jalan raya (road cycling), bersepeda gunung (mountain biking), lintasan (track cycling),
+        bersepeda lintas alam (cyclocross), dan bersepeda di medan yang sangat menantang atau berliku (BMX).
+        \n\n
+        Dalam kompetisi balap sepeda, seperti Tour de France atau Giro d,Italia,
+        atlet berlomba di jalur jalan raya dengan berbagai jarak dan medan,
+        termasuk tanjakan dan turunan. Para pesepeda biasanya tergabung dalam tim yang bekerja sama untuk mendukung anggota tim terbaik
+        dalam meraih kemenangan, dengan strategi seperti pelindungan dari angin dan penyerangan di saat-saat kunci.
+        Dalam track cycling, balapan diadakan di velodrom dengan lintasan oval, di mana peserta berlomba dengan kecepatan tinggi
+        dalam putaran-putaran pendek.
+        \n\n
+        Bersepeda menuntut kekuatan fisik, ketahanan, dan ketepatan strategi. Pesepeda juga harus memiliki keterampilan mengendalikan sepeda,
+        terutama di medan yang menantang seperti pegunungan atau tikungan tajam.
+        Bersepeda dikenal sebagai olahraga yang sangat menyehatkan karena melibatkan hampir seluruh otot tubuh
+        dan meningkatkan daya tahan jantung serta paru-paru. Selain sebagai olahraga, bersepeda juga populer sebagai alat transportasi
+        dan kegiatan rekreasi di seluruh dunia.
+    </string>
+
+    <string name="sports_list_golf">Golf adalah olahraga luar ruangan yang dimainkan di lapangan luas dengan tujuan memasukkan bola ke dalam serangkaian lubang dengan jumlah pukulan sesedikit mungkin.</string>
+    <string name="sport_detail_text6">
+      Golf adalah olahraga luar ruangan yang dimainkan di lapangan luas dengan tujuan memasukkan bola ke dalam serangkaian lubang
+        dengan jumlah pukulan sesedikit mungkin. Pemain menggunakan berbagai jenis tongkat atau stik golf,
+        yang masing-masing dirancang untuk jarak atau situasi tertentu, untuk memukul bola dari area tee hingga mencapai lubang di area green.
+        \n\n
+        Permainan golf biasanya terdiri dari 18 lubang yang tersebar di lapangan dengan berbagai rintangan,
+        seperti pasir (bunker), air, dan area rumput tinggi. Setiap lubang memiliki jumlah pukulan standar yang disebut par,
+        yang menjadi target bagi pemain untuk mencapai atau mendekati lubang dengan jumlah pukulan yang tepat.
+        Jika pemain memasukkan bola dengan lebih sedikit pukulan dari par, ini disebut birdie atau eagle,
+        sementara jumlah pukulan lebih dari par disebut bogey. Skor terendah di akhir putaran atau di seluruh lapangan menentukan pemenangnya.
+        \n\n
+        Golf mengutamakan keterampilan mengontrol kekuatan dan ketepatan pukulan, kemampuan membaca kondisi lapangan,
+        serta strategi pemilihan stik yang tepat. Olahraga ini terkenal karena menuntut konsentrasi tinggi dan ketenangan mental.
+        Golf dipertandingkan di berbagai level, mulai dari amatir hingga profesional,
+        dengan turnamen terkenal seperti Masters, US Open, dan British Open.
+        Golf juga populer sebagai aktivitas rekreasi yang dapat dimainkan oleh berbagai kalangan,
+        berkat lapangannya yang indah dan suasana yang santai.
+    </string>
+
+    <string name="sports_list_running">Running atau lari adalah aktivitas fisik dan olahraga yang melibatkan gerakan cepat, di mana seseorang bergerak maju</string>
+    <string name="sport_detail_text7">
+      Running atau lari adalah aktivitas fisik dan olahraga yang melibatkan gerakan cepat,
+        di mana seseorang bergerak maju dengan kedua kaki yang terangkat dari tanah dalam satu waktu.
+        Lari bisa dilakukan di berbagai jenis medan, seperti lintasan stadion, jalan raya, jalur alam, dan bahkan gunung.
+        Olahraga ini merupakan salah satu aktivitas paling dasar dan populer karena dapat dilakukan dengan mudah tanpa peralatan khusus
+        selain sepatu lari yang tepat.
+        \n\n
+        Ada berbagai kategori dalam olahraga lari, mulai dari sprint (lari cepat jarak pendek, seperti 100 meter dan 200 meter),
+        lari jarak menengah (800 meter hingga 1.500 meter), lari jarak jauh (5.000 meter hingga 10.000 meter),
+        hingga maraton (42,195 km) dan ultramaraton yang bisa melebihi jarak maraton. Dalam track running,
+        pelari bertanding di lintasan berbentuk oval yang biasanya terdiri dari 400 meter per putaran.
+        Sementara dalam road running dan trail running,
+        peserta menempuh jarak jauh di jalan raya atau jalur alami dengan berbagai tantangan medan.
+        \n\n
+        Olahraga lari menuntut ketahanan fisik, kekuatan, kecepatan, serta teknik yang tepat dalam mengatur napas dan langkah.
+        Selain meningkatkan kesehatan jantung, lari juga membantu menguatkan otot dan membakar kalori.
+        Lari bisa dilakukan secara individu atau dalam kompetisi, seperti Olympic Games, World Athletics Championships,
+        atau acara maraton terkenal seperti Boston Marathon dan New York City Marathon.
+    </string>
+
+    <string name="sports_list_soccer">Sepak bola, atau soccer, adalah olahraga tim yang sangat populer di seluruh dunia.</string>
+    <string name="sport_detail_text8">
+      Sepak bola, atau soccer, adalah olahraga tim yang sangat populer di seluruh dunia.
+        Permainan ini dimainkan antara dua tim yang masing-masing terdiri dari sebelas pemain.
+        Tujuan utama permainan ini adalah untuk mencetak gol dengan cara memasukkan bola ke gawang lawan.
+        Berikut adalah beberapa aspek penting mengenai sepak bola:
+        \n\n
+        1. Lapangan: Sepak bola dimainkan di lapangan berbentuk persegi panjang yang memiliki ukuran bervariasi,
+        dengan dua gawang di masing-masing ujungnya. Ukuran lapangan standar adalah sekitar 100 hingga 110 meter panjang
+        dan 64 hingga 75 meter lebar. \n\n
+        2. Peraturan: Sepak bola diatur oleh aturan yang dikenal sebagai Laws of the Game,
+        yang ditetapkan oleh International Football Association Board (IFAB). Setiap pertandingan dibagi menjadi dua babak,
+        masing-masing selama 45 menit, dengan waktu tambahan yang dapat ditambahkan oleh wasit. \n\n
+        3. Pemain dan Posisi: Setiap tim terdiri dari berbagai posisi, termasuk kiper, bek, gelandang, dan penyerang.
+        Kiper adalah satu-satunya pemain yang diperbolehkan menggunakan tangan, tetapi hanya di area penalti. \n\n
+        4. Kompetisi: Sepak bola memiliki banyak kompetisi di berbagai tingkat, mulai dari liga domestik hingga turnamen internasional.
+        Liga yang paling terkenal termasuk English Premier League, La Liga, Serie A, dan Bundesliga.
+        Turnamen internasional terbesar adalah Piala Dunia FIFA yang diadakan setiap empat tahun sekali. \n\n
+        5. Aspek Teknikal: Permainan ini melibatkan keterampilan teknik seperti dribbling, passing, shooting, dan defending.
+        Kerjasama tim dan strategi permainan sangat penting untuk meraih kemenangan. \n\n
+        6. Budaya dan Pengaruh: Sepak bola memiliki pengaruh besar di banyak negara, menjadi bagian penting dari budaya dan identitas nasional.
+        Banyak pemain terkenal, seperti Pelé, Diego Maradona, Lionel Messi, dan Cristiano Ronaldo, telah menjadi ikon global.
+        \n\n
+        Sepak bola tidak hanya olahraga, tetapi juga merupakan fenomena sosial yang menyatukan jutaan orang dari berbagai latar belakang.
+    </string>
+
+    <string name="sports_list_swimming">Renang adalah olahraga yang dilakukan di dalam air, melibatkan gerakan tubuh untuk bergerak.</string>
+    <string name="sport_detail_text9">
+      Renang adalah olahraga yang dilakukan di dalam air, melibatkan gerakan tubuh untuk bergerak maju
+        dan sering dianggap sebagai salah satu bentuk latihan fisik yang paling lengkap.
+        Olahraga ini dapat dilakukan di kolam renang, laut, atau danau, dan memiliki berbagai gaya,
+        yaitu gaya bebas, gaya dada, gaya punggung, dan gaya kupu-kupu, masing-masing dengan teknik dan gerakan yang unik.
+        Gaya bebas, yang dikenal sebagai freestyle, adalah gaya tercepat di mana perenang menghadap ke bawah dan menggerakkan tangan dan kaki
+        secara bergantian. Gaya dada melibatkan pergerakan tangan ke samping dan kaki yang melakukan frog kick,
+        sedangkan gaya punggung membuat perenang berbaring telentang dan menggunakan gerakan tangan yang mirip dengan gaya bebas.
+        Gaya kupu-kupu, di sisi lain, menggunakan gerakan kedua tangan bersamaan ke depan,
+        dengan gerakan kaki bersamaan yang dikenal sebagai dolphin kick.
+        \n\n
+        Renang juga merupakan olahraga kompetitif yang diatur oleh organisasi seperti Fédération Internationale de Natation (FINA)
+        dan diadakan dalam berbagai jarak dan kategori gaya. Perenang profesional berkompetisi dalam acara-acara besar,
+        termasuk kejuaraan dunia dan Olimpiade, di mana mereka berjuang untuk mencetak rekor dan medali.
+        Banyak perenang terkenal, seperti Michael Phelps, yang dikenal sebagai perenang terhebat sepanjang masa, dan Katie Ledecky,
+        yang memecahkan berbagai rekor dunia, telah mengangkat popularitas olahraga ini ke tingkat yang lebih tinggi.
+        \n\n
+        Selain sebagai olahraga kompetitif, renang memiliki banyak manfaat kesehatan.
+        Kegiatan ini merupakan latihan kardiovaskular yang sangat baik, membantu meningkatkan daya tahan, kekuatan otot, dan fleksibilitas.
+        Renang juga membantu membakar kalori dan dapat berkontribusi pada pengelolaan berat badan yang sehat.
+        Salah satu keunggulan renang adalah dampaknya yang rendah pada sendi,
+        sehingga menjadi pilihan yang ideal untuk orang-orang dari segala usia dan tingkat kebugaran,
+        termasuk mereka yang mengalami cedera atau kondisi tertentu.
+    </string>
+
+    <string name="sports_list_tenismeja">Tenis meja, juga dikenal sebagai pingpong, adalah olahraga yang dimainkan di atas meja datar.</string>
+    <string name="sport_detail_text10">
+      Tenis meja, juga dikenal sebagai pingpong, adalah olahraga yang dimainkan di atas meja datar dengan dua atau empat pemain,
+        menggunakan bola kecil dan raket. Olahraga ini terkenal karena kecepatan, keterampilan,
+        dan strategi yang diperlukan untuk mengalahkan lawan. Berikut adalah beberapa aspek penting mengenai tenis meja:
+        \n\n
+        Tenis meja dimainkan di atas meja dengan ukuran standar 2,74 meter panjang, 1,525 meter lebar, dan tinggi 76 cm.
+        Meja dibagi menjadi dua bagian oleh net setinggi 15,25 cm. Para pemain mengadu keterampilan dengan memukul bola kecil,
+        biasanya terbuat dari plastik dan berdiameter 40 mm, dengan raket yang dilapisi karet di kedua sisinya. \n\n
+        Permainan ini dapat dimainkan dalam format tunggal (satu lawan satu) atau ganda (dua lawan dua).
+        Setiap pemain berusaha untuk mencetak poin dengan cara membuat bola melewati net dan jatuh di sisi meja lawan,
+        sementara lawan harus mengembalikan bola sebelum bola memantul dua kali. Permainan berlangsung dalam set,
+        biasanya terdiri dari 11 atau 21 poin, dan pemain harus memenangkan sejumlah set tertentu untuk memenangkan pertandingan.
+        \n\n
+        Tenis meja diatur oleh Federasi Tenis Meja Internasional (ITTF), yang menetapkan aturan dan regulasi untuk kompetisi di tingkat lokal,
+        nasional, dan internasional. Olahraga ini merupakan bagian dari Olimpiade sejak 1988 dan memiliki banyak turnamen bergengsi,
+        termasuk Kejuaraan Dunia dan Piala Dunia. \n\n Salah satu daya tarik utama tenis meja adalah kecepatannya.
+        Pemain harus memiliki refleks yang sangat baik, ketepatan, dan kemampuan untuk merespons gerakan lawan dengan cepat.
+        Teknik permainan mencakup berbagai pukulan, seperti topspin, backspin, dan smashes, yang memerlukan latihan dan keterampilan tinggi.
+    </string>
+
+    <string name="sports_list_tenis">Tenis adalah olahraga raket yang dimainkan di lapangan datar, biasanya terbagi menjadi dua jenis permainan.</string>
+    <string name="sport_detail_text11">
+        Tenis adalah olahraga raket yang dimainkan di lapangan datar, biasanya terbagi menjadi dua jenis permainan: \n\n
+        tenis lapangan (outdoor) dan tenis dalam ruangan (indoor).
+        Permainan ini melibatkan dua pemain (singles) atau dua pasangan (doubles) yang saling beradu dengan tujuan
+        untuk memukul bola tenis dengan raket agar bola tersebut melewati net dan jatuh di area permainan lawan.
+        Lapangan tenis memiliki ukuran standar 23,77 meter panjang dan 8,23 meter lebar untuk permainan tunggal,
+        dan 10,97 meter lebar untuk permainan ganda. Net yang membagi lapangan memiliki tinggi 0,914 meter di tengah.
+        Pemain menggunakan raket yang terbuat dari bahan ringan seperti karbon atau serat kaca,
+        dan bola tenis yang dilapisi karet dan dilapisi dengan felt.
+        \n\n
+        Permainan tenis dibagi menjadi set, dengan masing-masing set terdiri dari game. Untuk memenangkan game,
+        seorang pemain atau pasangan harus mencetak empat poin dengan selisih dua poin dari lawan.
+        Sistem penilaian dalam tenis cukup unik, dengan penggunaan istilah seperti "love" (0), "15," "30," "40," dan "deuce"
+        untuk menggambarkan skor. Untuk memenangkan pertandingan, seorang pemain harus memenangkan sejumlah set tertentu,
+        biasanya dua dari tiga atau tiga dari lima set, tergantung pada format turnamen. \n\n Tenis diatur oleh Asosiasi Tenis Internasional (ITF)
+        dan memiliki banyak turnamen bergengsi, termasuk Grand Slam seperti Wimbledon, Australian Open, French Open, dan US Open.
+        Turnamen-turnamen ini menarik perhatian global dan menampilkan banyak pemain terkenal seperti
+        Roger Federer, Serena Williams, Rafael Nadal, dan Novak Djokovic, yang telah mencapai kesuksesan luar biasa dalam karier mereka.
+        \n\n
+        Olahraga ini tidak hanya memerlukan keterampilan fisik yang tinggi, seperti kekuatan, ketahanan, dan kelincahan,
+        tetapi juga aspek mental yang signifikan. Pemain harus mampu mengatur strategi, mengantisipasi gerakan lawan,
+        dan tetap tenang di bawah tekanan. Tenis juga dapat dimainkan secara rekreasi,
+        di mana pemain dari semua tingkat keterampilan dapat menikmati permainan ini.
+        Manfaat kesehatan dari tenis sangat banyak, termasuk peningkatan kebugaran kardiovaskular, kekuatan otot, dan koordinasi.
+        Selain itu, tenis juga dikenal sebagai olahraga sosial, memungkinkan orang untuk bertemu dan bersosialisasi sambil berolahraga.
+        Secara keseluruhan, tenis adalah olahraga yang menarik dan menantang,
+        menawarkan kombinasi antara keterampilan, strategi, dan kebugaran,
+        serta dapat dinikmati oleh orang-orang dari semua usia dan tingkat kemampuan.
+    </string>
+
+    <plurals name="player_count_caption">
+        <item quantity="one">1 Player</item>
+        <item quantity="other">%1$d Players</item>
+    </plurals>
+    <string name="olympic_caption">Olympic</string>
+
+    <string name="back_button">Back</string>
+</resources>
